@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+N88 là nhà cái cá cược Casino đỉnh cao top 1 châu Á - n881.net
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`N88 <https://n881.net/>`_ là nhà cái hoạt động từ năm 2020 và được công nhận hợp pháp bởi cơ quan quản lý giải trí và trò chơi Philippines - PAGCOR. Với nền tảng tài chính vững chắc và đội ngũ nhân viên giàu kinh nghiệm, sau 4 năm hoạt động, nhà cái N88 đã vươn mình lên đẳng cấp nhà cái uy tín top 1 châu Á. Đối với giới cược thủ, N 88 đã trở thành địa chỉ cá cược uy tín với sự sòng phẳng, minh bạch và quan trọng nhất là có đủ loại hình cược trên thị trường.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: Chiến Lược/Hẻm 108 Phòng 7, Khu Phố 9, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0830198847. 
 
-Contents
---------
+Email: info@n881.net. 
 
-.. toctree::
+Website: https://n881.net/
 
-   usage
-   api
+#n88 #n881 #n881net #n881_net #nhacain88 #n88casino
